@@ -1,64 +1,63 @@
 
 {
-    "HCM": {
-      "name": "Ho Chi Minh City",
-      "capital": "Ho Chi Minh",
-      "lat": 10.762622,
-      "long": 106.660172
+    "BR":{
+      "name": "Brunei",
+      "capital": "Bandar Seri Begawan",
+      "lat": 4.903052,
+      "long": 114.939820
     },
-    "HN": {
-      "name": "Hanoi",
+    "CAM":{
+      "name": "Cambodia",
+      "capital": "Phnom Penh",
+      "lat": 11.556374,
+      "long": 104.928210
+    },
+    "IND":{
+      "name": "Indonesia",
+      "capital": "Jakarta",
+      "lat": -6.208763,
+      "long": 106.845599
+    },
+    "LAOS":{
+      "name": "Laos",
+      "capital": "Vientiane",
+      "lat": 17.975706,
+      "long": 102.633104
+    },
+    "MALAY":{
+      "name": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "lat": 3.139003,
+      "long": 101.686855
+    },
+    "MYA":{
+      "name": "Myanmar",
+      "capital": "Naypyidaw",
+      "lat": 19.763306,
+      "long": 96.078510
+    },
+    "PHI":{
+      "name": "Philippines",
+      "capital": "Manila",
+      "lat": 14.599512,
+      "long": 120.984219
+    },
+    "SNG":{
+      "name": "Singapore",
+      "capital": "Singapore",
+      "lat": 1.352083,
+      "long": 103.819839
+    },
+    "THA":{
+      "name": "Thailand",
+      "capital": "Bangkok",
+      "lat": 13.756331,
+      "long": 100.501762
+    },
+    "VIE":{
+      "name": "Vietnam",
       "capital": "Hanoi",
       "lat": 21.028511,
       "long": 105.854444
-    },
-    "DN": {
-      "name": "Da Nang",
-      "capital": "Da Nang",
-      "lat": 16.054407,
-      "long": 108.202164
-    },
-    "HP": {
-      "name": "Hai Phong",
-      "capital": "Hai Phong",
-      "lat": 20.844911,
-      "long": 106.688084
-    },
-    "CT": {
-      "name": "Can Tho",
-      "capital": "Can Tho",
-      "lat": 10.045219,
-      "long": 105.746857
-    },
-    "NT": {
-      "name": "Nha Trang",
-      "capital": "Khanh Hoa",
-      "lat": 12.238791,
-      "long": 109.196748
-    },
-    "H": {
-      "name": "Hue",
-      "capital": "Thua Thien Hue",
-      "lat": 16.463713,
-      "long": 107.590866
-    },
-    "VT": {
-      "name": "Vung Tau",
-      "capital": "Ba Ria-Vung Tau",
-      "lat": 10.346972,
-      "long": 107.084322
-    },
-    "HL": {
-      "name": "Ha Long",
-      "capital": "Quang Ninh",
-      "lat": 20.952853,
-      "long": 107.073122
-    },
-    "PT": {
-      "name": "Phan Thiet",
-      "capital": "Binh Thuan",
-      "lat": 10.933210,
-      "long": 108.287890
     }
-  
 }
