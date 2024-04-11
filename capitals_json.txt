@@ -1,0 +1,64 @@
+
+{
+    "HCM": {
+      "name": "Ho Chi Minh City",
+      "capital": "Ho Chi Minh",
+      "lat": 10.762622,
+      "long": 106.660172
+    },
+    "HN": {
+      "name": "Hanoi",
+      "capital": "Hanoi",
+      "lat": 21.028511,
+      "long": 105.854444
+    },
+    "DN": {
+      "name": "Da Nang",
+      "capital": "Da Nang",
+      "lat": 16.054407,
+      "long": 108.202164
+    },
+    "HP": {
+      "name": "Hai Phong",
+      "capital": "Hai Phong",
+      "lat": 20.844911,
+      "long": 106.688084
+    },
+    "CT": {
+      "name": "Can Tho",
+      "capital": "Can Tho",
+      "lat": 10.045219,
+      "long": 105.746857
+    },
+    "NT": {
+      "name": "Nha Trang",
+      "capital": "Khanh Hoa",
+      "lat": 12.238791,
+      "long": 109.196748
+    },
+    "H": {
+      "name": "Hue",
+      "capital": "Thua Thien Hue",
+      "lat": 16.463713,
+      "long": 107.590866
+    },
+    "VT": {
+      "name": "Vung Tau",
+      "capital": "Ba Ria-Vung Tau",
+      "lat": 10.346972,
+      "long": 107.084322
+    },
+    "HL": {
+      "name": "Ha Long",
+      "capital": "Quang Ninh",
+      "lat": 20.952853,
+      "long": 107.073122
+    },
+    "PT": {
+      "name": "Phan Thiet",
+      "capital": "Binh Thuan",
+      "lat": 10.933210,
+      "long": 108.287890
+    }
+  
+}
